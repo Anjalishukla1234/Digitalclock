@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(54, 54, 151);
+}
+
+
+
+
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 15px;
+    border: 3px solid black;
+    background-color: rgb(136, 168, 189);
+}
+.youtube{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 15px;
+    border: 3px solid black;
+    background-color: rgb(136, 168, 189);
+}
+nav{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 100px;
+    font-size: 50px;
+    font-family: 'poppins';
+    font-weight: bold;
+   
+}
+
+#clock{
+font-size: 40px;
+background-color: yellow;
+width: 200px;
+height: 50px;
+padding: 20px 50px;
+margin-top: 40px;
+border-radius: 10px;
+}
